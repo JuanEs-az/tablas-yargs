@@ -6,7 +6,6 @@ const intersection = ( a1 , a2 ) => {
     });
     return result
 }
-const filename = 'xd&'
 
 module.exports = {
     intersection
